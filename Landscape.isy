@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Landscape">
+<layout paper="1080 600" origin="0 0" frame="1080 600" skip="32" crop="no"/>
+</ipestyle>
